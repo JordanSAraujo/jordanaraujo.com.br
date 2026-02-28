@@ -1,0 +1,16 @@
+{
+  "name": "jordanaraujo.com.br",
+  "version": "1.0.0",
+  "description": "Plataforma colaborativa focada em tecnologias de desenvolvimento de software. Tutoriais, discussões e recursos criados pela comunidade para promover aprendizado contínuo e troca de conhecimento entre desenvolvedores de todos os níveis. 🚀",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev" 
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
