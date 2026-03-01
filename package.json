@@ -4,7 +4,7 @@
   "description": "Plataforma colaborativa focada em tecnologias de desenvolvimento de software. Tutoriais, discussões e recursos criados pela comunidade para promover aprendizado contínuo e troca de conhecimento entre desenvolvedores de todos os níveis. 🚀",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
